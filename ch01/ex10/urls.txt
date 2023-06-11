@@ -1,0 +1,10 @@
+http://facebook.com
+http://fonts.googleapis.com
+http://google.com
+http://twitter.com
+http://youtube.com
+http://instagram.com
+http://googletagmanager.com
+http://s.w.org
+http://linkedin.com
+http://fonts.gstatic.com
